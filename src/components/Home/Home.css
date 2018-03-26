@@ -1,0 +1,33 @@
+.hero {
+  background-image: url("../../assets/clouds.jpg");
+  background-size: cover;
+  animation: clouds 3s forwards; }
+  .hero .title {
+    font-weight: bold; }
+    @media screen and (min-width: 769px), print {
+      .hero .title {
+        font-size: 2.5rem; } }
+    @media screen and (min-width: 1000px) {
+      .hero .title {
+        font-size: 4rem; } }
+
+h2 {
+  margin: 1.5rem 0 2rem 0 !important; }
+
+.fa-cog {
+  font-size: 40px; }
+
+@media screen and (min-width: 769px), print {
+  .pd {
+    padding: 1.5rem 0; } }
+
+@media screen and (min-width: 1000px) {
+  .pd {
+    padding: 3rem 0; } }
+
+.card-content .title {
+  font-weight: normal; }
+
+.card-content .subtitle {
+  padding-top: 3%;
+  font-size: 1.5rem; }
