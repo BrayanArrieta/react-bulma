@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,MAAM;EACJ,gBAAgB,ECCR,OAAO;EDAf,KAAK,EAAE,IAAI;EAEX,YAAK;IACH,KAAK,EAAE,IAAI;IACX,WAAW,EAAE,IAAI",
+"sources": ["Footer.sass","../../mq.sass"],
+"names": [],
+"file": "Footer.css"
+}
